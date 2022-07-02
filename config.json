@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,44 +35,12 @@
   ],
   "Addon": [
     {
-        "name": "Ghasts+ Addon",
-        "role": "This Addon adds more Ghasts into the game but they are not just Ghasts, they have been morphed into other mobs like a Creeper, Enderman and even a Bee! If you like addons like this, read more about it! (Suggest more Ghast morphs in the comments!)",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/12/lima.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/12/Ghasts_Addon.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/12/empat.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/12/dua.png"
-    },
-    {
-        "name": "LiL's Keplerians Horror Addon v5",
-        "role": "Do you love playing Horror games? Killer Games? Then this is the right Addon for you! This addon adds Keplerians Horror Games Characters to your world, they will attempt to kill you and chase you so find a place to hide",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/13/enam.jpeg",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/13/LiLs_Keplerians_Horror_Addon.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/13/empat.jpeg",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/13/dua.jpeg"
-    },
-    {
-        "name": "Hog's Morphs",
-        "role": "Hog's Morph Is an addon I Hog have made. I still want to add more morphs to this addon and I will update soon. The addon adds some mobs all their stats and abilities with them.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/14/satu.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/14/Hogs Morph.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/14/dua.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/14/dua.png"
-    },
-    {
-        "name": "Shinobi Add-On",
-        "role": "Did you want to add Naruto to minecraft, too? That's why I did the addon. There's a lot of shinobi bandage, byakugan, sharingan, clans, food, morph. There are three varieties of sharingan. I'll soon improve the addon, enjoy",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/15/satu.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/15/ShinobiAddon.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/15/empat.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/15/dua.png"
-    },
-    {
-        "name": "Xans Addon || Fire and Ice Sans Addon",
-        "role": "Do you like Undervirus? Do you want the Xans character from Undervirus to appear in Minecraft? Here I made an UnderVirus addon, namely Xans. This Xans is not weak, it is very strong. Me and the other addon creators are all tired of making addons, and we make those things entertaining for everyone. So if you don't like it, please go to another place and download another addon. DO NOT BE LIKE A KID",
-        "image": "https://kossandroid.com/Data Android/Minecraft/morph/16/satu.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/morph/16/xans v3.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/morph/16/empat.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/morph/16/dua.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Map": [
